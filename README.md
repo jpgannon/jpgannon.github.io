@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/jpgannon/jpgannon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a collegiate assistant professor of [environmental informatics] (https://vt.edu/academics/majors/environmental-informatics.html) in the Forest Resources and Environmental Conservation (FREC) department in the College of Natural Resources at Virginia Tech. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Teaching
 
-### Markdown
+As a collegiate assistant professor of environmental informatics (EI), I focus on undergraduate education in the EI major. I teach several courses that serve that major, as well as others in the FREC department and College of Natural Resources. Recent course offerings can be accessed via the teaching link to the left
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research
 
-```markdown
-Syntax highlighted code block
+Even though my position is focused primarily on undergraduate education, I maintain an active research program. My research program is broadly focused on catchment hydrology. Recent publications can be viewed at the publications link to the left. I am always looking for motivated undergraduate students to work with me to investigate hydrological processes. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpgannon/jpgannon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me via direct message on twitter (@jp_gannon) or by email at jpgannon [at] vt.edu
