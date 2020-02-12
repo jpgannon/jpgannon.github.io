@@ -3,6 +3,7 @@
 I am a collegiate assistant professor of [environmental informatics](https://vt.edu/academics/majors/environmental-informatics.html) in the Forest Resources and Environmental Conservation (FREC) department in the College of Natural Resources at Virginia Tech. 
 
 ### Teaching
+#### [Courses](./teaching.md)
 
 As a collegiate assistant professor of environmental informatics (EI), I focus on undergraduate education in the EI major. I teach several courses that serve that major, as well as others in the FREC department and College of Natural Resources. Recent course offerings can be accessed via the teaching link to the left
 
