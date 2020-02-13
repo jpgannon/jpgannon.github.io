@@ -6,7 +6,7 @@ Application of information science to environmental management. Role of informat
 ### Information Technologies for Natural Resource Management (FREC 4114/5114, Fall)  
 An introduction to computer information systems used in natural resources management. Course will introduce students to the theory and applications of database management systems (DBMS) and geographic information systems (GIS). Uses, challenges, and limitations of these technologies in natural resource management applications will be discussed. Students will receive extensive hand-on instruction in the use of current software packages for DBMS and GIS. Pre: 2214 or FOR 2214 or GEOG 2314. (2H,3L,3C)  
 
-### Digital Planet (FREC 1044, GEOG 1084, Spring)
+### Digital Planet (FREC 1044 / GEOG 1084, Spring)
 Exploration of innovative geospatial technologies and their impact on the world around us, including how humans interact with the environment and each other. Roles of location-based services, global positioning systems, geographic information systems, remote sensing, virtual globes and web based mapping for environmental applications. Skills and techniques for spatial thinking and environmental decision-making. Ethical implications of the use of geospatial technologies, data, and computational approaches. (3H,3C)  
 
 ### Environmental Informatics Capstone (FREC 4444, Spring)
