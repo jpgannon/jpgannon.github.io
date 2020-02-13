@@ -12,6 +12,6 @@ Exploration of innovative geospatial technologies and their impact on the world 
 ### Environmental Informatics Capstone (FREC 4444, Spring)
 New description pending course approval.
 
-### For courses taught during previous appointments, please see [CV](https://github.com/jpgannon/jpgannon.github.io/blob/master/JPG%20CV%20FEB%202020-Web.pdf)
+### For courses taught during previous appointments, please see my [CV](https://github.com/jpgannon/jpgannon.github.io/blob/master/JPG%20CV%20FEB%202020-Web.pdf)
 
 #### [Back](./README.md)
