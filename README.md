@@ -4,9 +4,9 @@ I am a collegiate assistant professor of [environmental informatics](https://vt.
 
 ### Teaching
 
-As a collegiate assistant professor of environmental informatics (EI), I focus on undergraduate education in the EI major. I teach several courses that serve that major, as well as others in the FREC department and College of Natural Resources. 
-#### [Course offerings](./teaching.md)
-#### [Headwater stream discharge exploration app](https://wcu-hydro.shinyapps.io/GribbleGap_Discharge/)
+As a collegiate assistant professor of environmental informatics (EI), I focus on undergraduate education in the EI major. I teach several courses that serve that major, as well as others in the FREC department and College of Natural Resources.  
+  [Course offerings](./teaching.md)  
+  [Headwater stream discharge exploration app](https://wcu-hydro.shinyapps.io/GribbleGap_Discharge/)  
 
 ### Research
 
