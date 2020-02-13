@@ -10,8 +10,9 @@ As a collegiate assistant professor of environmental informatics (EI), I focus o
 
 ### Research
 
-Even though my position is focused primarily on undergraduate education, I maintain an active research program. My research program is broadly focused on catchment hydrology. I am always looking for motivated undergraduate students to work with me to investigate hydrological processes!
-#### [Publications](https://scholar.google.com/citations?user=RASISwIAAAAJ&hl=en)
+Even though my position is focused primarily on undergraduate education, I maintain an active research program. My research program is broadly focused on catchment hydrology. I am always looking for motivated undergraduate students to work with me to investigate hydrological processes!  
+  
+[Publications](https://scholar.google.com/citations?user=RASISwIAAAAJ&hl=en)
 
 
 ### Contact
