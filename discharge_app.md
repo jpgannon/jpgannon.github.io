@@ -31,3 +31,5 @@ If you use this app for a class or otherwise, I would greatly appreciate it if y
 
 You can contact me via direct message on twitter (@jp_gannon) or by email at jpgannon [at] vt.edu
 
+### Data
+The data used in the app are hosted on CUAHSI Hydroshare and can be accessed [here](https://www.hydroshare.org/resource/156bed7f9b984677ad617fd071a99a33/)
