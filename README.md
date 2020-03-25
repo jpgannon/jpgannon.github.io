@@ -6,7 +6,7 @@ I am a collegiate assistant professor of [environmental informatics](https://vt.
 
 As a collegiate assistant professor of environmental informatics (EI), I focus on undergraduate education in the EI major. I teach several courses that serve that major, as well as others in the FREC department and College of Natural Resources.  
 >[Course offerings](./teaching.md)  
->[Headwater stream discharge exploration app](./discharge_app.df)  
+>[Headwater stream discharge exploration app](./discharge_app.md)  
 
 ### Research
 
