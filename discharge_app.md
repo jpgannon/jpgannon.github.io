@@ -7,8 +7,8 @@ Eventually this page will host some classroom activities, but for now, there is 
 #### Discharge variations over a water year 
 These are more apparent using the logged y axis
 
-#### Storm dynamics Y
-ou can highlight days with certain precipitation amounts, so you can compare responses in different seasons and or wetness conditions. Use the "add horizontal line" to compare storm magnitudes easily.
+#### Storm dynamics
+You can highlight days with certain precipitation amounts, so you can compare responses in different seasons and or wetness conditions. Use the "add horizontal line" to compare storm magnitudes easily.
 
 #### Water balance concepts 
 Total discharge and precip in mm is included for the time period shown in the plots
@@ -17,13 +17,13 @@ Total discharge and precip in mm is included for the time period shown in the pl
 Click the checkbox to add the water temperature record to the plots
 
 #### Baseflow dynamics
-You can show baseflow, calculated using the EcoHydRology package in the plots. You can also change the filter parameter for the baseflow function.
+You can show baseflow, calculated using the [EcoHydRology package](https://cran.r-project.org/web/packages/EcoHydRology/index.html) in the plots. You can also change the filter parameter for the baseflow filter function.
 
 #### Flow Duration/Non-exceedance curves 
 There is a probability of non-exceedance curve for the total flow and calculated baseflow. A second line appears if you zoom in to a specfic time-frame, which shows the curve for just that time frame. This can help illustrate that these curves show.
 
-#### Note: P
-lots can be copied via right click for pasting into documents.
+#### Note: 
+Plots can be copied via right click for pasting into documents.
 
 
 ### Contact
