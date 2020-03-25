@@ -13,7 +13,7 @@ You can highlight days with certain precipitation amounts, so you can compare re
 #### Water balance concepts 
 Total discharge and precip in mm is included for the time period shown in the plots
 
-#### Water termperature dynamics 
+#### Water temperature dynamics 
 Click the checkbox to add the water temperature record to the plots
 
 #### Baseflow dynamics
