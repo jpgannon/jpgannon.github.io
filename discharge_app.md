@@ -20,7 +20,7 @@ Click the checkbox to add the water temperature record to the plots
 You can show baseflow, calculated using the [EcoHydRology package](https://cran.r-project.org/web/packages/EcoHydRology/index.html) in the plots. You can also change the filter parameter for the baseflow filter function.
 
 #### Flow Duration/Non-exceedance curves 
-There is a probability of non-exceedance curve for the total flow and calculated baseflow. A second line appears if you zoom in to a specfic time-frame, which shows the curve for just that time frame. This can help illustrate that these curves show.
+There is a probability of non-exceedance curve for the total flow and calculated baseflow. A second line appears if you zoom in to a specfic time-frame, which shows the curve for just that time frame. This can help illustrate what these curves show.
 
 #### Note: 
 Plots can be copied via right click for pasting into documents.
