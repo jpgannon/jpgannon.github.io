@@ -1,4 +1,6 @@
 ## An app for exploring discharge in a small mountain catchment
+The [Hubbard Brook Experimental Forest discharge app](https://cuahsi.shinyapps.io/HBEF_Discharge/), hosted by CUAHSI, is a R shiny web application designed to allow students to explore the precipitation and discharge records of the [9 experimental watersheds](https://hubbardbrook.org/experimental-watersheds) at Hubbard Brook. It is similar in layout to the Gribble Gap Discharge app, but includes some added functionality.
+
 [The Gribble Gap Discharge app](http://198.82.212.36/GribbleGap_Discharge/) is a R shiny web application designed to give students a way to explore the discharge record of a headwater stream in a variety of ways. 
 
 Eventually this page will host some classroom activities, but for now, there is simply a list of topics that can be explored with the app.
@@ -15,6 +17,7 @@ Total discharge and precip in mm is included for the time period shown in the pl
 
 #### Water temperature dynamics 
 Click the checkbox to add the water temperature record to the plots
+Water temperature data is only in the Gribble Gap app.
 
 #### Baseflow dynamics
 You can show baseflow, calculated using the [EcoHydRology package](https://cran.r-project.org/web/packages/EcoHydRology/index.html) in the plots. You can also change the filter parameter for the baseflow filter function.
