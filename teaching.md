@@ -9,8 +9,11 @@ An introduction to computer information systems used in natural resources manage
 ### Digital Planet (FREC 1044 / GEOG 1084, Spring)
 Exploration of innovative geospatial technologies and their impact on the world around us, including how humans interact with the environment and each other. Roles of location-based services, global positioning systems, geographic information systems, remote sensing, virtual globes and web based mapping for environmental applications. Skills and techniques for spatial thinking and environmental decision-making. Ethical implications of the use of geospatial technologies, data, and computational approaches. (3H,3C)  
 
-### Environmental Informatics Capstone (FREC 4444, Spring)
+### Environmental Informatics Capstone (FREC 4044, Spring)
 Apply environmental informatics strategies and techniques to natural resources problems. Capstone experience using spatial and/or temporal environmental data. Integrate multiple concepts and strategies to create a practical solution. Senior Standing. Pre: 3004 (3H, 3C)
+
+### Hydroinformatics/Advanced Hydroinformatics (FREC 4244 / 5244, Spring)
+Analysis and examination of hydrologic data using basic statistics and computer programming. Calculation and interpretation of flow frequency and duration, hydrologic analysis of geospatial digital terrain data, and implementation and analysis of simple hydrologic models. Advanced methods of temporal and spatial hydrologic data visualization using computer programming. Pre: 3104 or WATR 3104 (3H, 3C)
 
 ### For courses taught during previous appointments, please see my [CV](https://github.com/jpgannon/jpgannon.github.io/blob/master/JPG%20CV%20FEB%202020-Web.pdf)
 
