@@ -6,8 +6,11 @@ I am a collegiate assistant professor of [environmental informatics](https://vt.
 
 As a collegiate assistant professor of environmental informatics (EI), I focus on undergraduate education in the EI major. I teach several courses that serve that major, as well as others in the FREC department and College of Natural Resources.  
 >[Course offerings](./teaching.md)  
->[Headwater stream discharge exploration apps](./discharge_app.md)  
 >[Hydroinformatics course tutorial/activity book](https://vt-hydroinformatics.github.io/)
+>[Water Balance Teaching App](https://cuahsi.shinyapps.io/WaterBalance/)
+>[Water Balance Teaching App activites and slides](https://www.hydroshare.org/resource/0ecadff374aa4a2b84e41f146d39f48c/)
+>[Headwater stream discharge exploration apps](./discharge_app.md)  
+
 
 ### Research
 
