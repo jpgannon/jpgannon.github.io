@@ -1,10 +1,10 @@
 ## About me
 
-I am a collegiate assistant professor of [environmental informatics](https://vt.edu/academics/majors/environmental-informatics.html) in the Forest Resources and Environmental Conservation (FREC) department in the College of Natural Resources and Environment at Virginia Tech. 
+I am a collegiate assistant professor of [environmental data science](https://vt.edu/academics/majors/environmental-data-science.html) in the Forest Resources and Environmental Conservation (FREC) department in the College of Natural Resources and Environment at Virginia Tech. 
 
 ### Teaching
 
-As a collegiate assistant professor of environmental informatics (EI), I focus on undergraduate education in the EI major. I teach several courses that serve that major, as well as others in the FREC department and College of Natural Resources.  
+As a collegiate assistant professor of environmental data science (EDS), I focus on undergraduate education in the EDS major. I teach several courses that serve that major, as well as others in the FREC department and College of Natural Resources.  
 >[Course offerings](./teaching.md)  
 >[Hydroinformatics course tutorial/activity book](https://vt-hydroinformatics.github.io/)  
 >[Water Balance Teaching App](https://cuahsi.shinyapps.io/WaterBalance/)  
