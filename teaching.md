@@ -1,7 +1,7 @@
 ## Classes offered at Virginia Tech
 
-### Introduction to Environmental Informatics (FREC 1044, Fall)  
-Application of information science to environmental management. Role of information science, mathematical and statistical modeling, geospatial technology, database management, knowledge integration, and decision science in environmental decision-making. Skills and techniques required to assist scientists and managers with the challenges of collecting, collating, archiving, modeling, analyzing, visualizing, and communicating information in support of natural resource management. (3H,3C)  
+### Introduction to Environmental Data Science (FREC 1044, Fall)  
+Application of data science to environmental management. Role of data science, mathematical and statistical modeling, geospatial technology, database management, knowledge integration, and decision science in environmental decision-making. Skills and techniques required to assist scientists and managers with the challenges of collecting, collating, archiving, modeling, analyzing, visualizing, and communicating information in support of natural resource management. (3H,3C)  
 
 ### Information Technologies for Natural Resource Management (FREC 4114/5114, Fall)  
 An introduction to computer information systems used in natural resources management. Course will introduce students to the theory and applications of database management systems (DBMS) and geographic information systems (GIS). Uses, challenges, and limitations of these technologies in natural resource management applications will be discussed. Students will receive extensive hand-on instruction in the use of current software packages for DBMS and GIS. Pre: 2214 or FOR 2214 or GEOG 2314. (2H,3L,3C)  
