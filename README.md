@@ -10,6 +10,7 @@ As a collegiate assistant professor of environmental data science (EDS), I focus
 >[Water Balance Teaching App](https://cuahsi.shinyapps.io/WaterBalance/)  
 >[Water Balance Teaching App activites and slides](https://www.hydroshare.org/resource/0ecadff374aa4a2b84e41f146d39f48c/)  
 >[Headwater stream discharge exploration apps](./discharge_app.md)  
+>[YouTube Channel with R and ArcGIS Pro Tutorials](https://www.youtube.com/channel/UCmo0_TToiHssQKkdW-mt6XQ)
 
 
 ### Research
