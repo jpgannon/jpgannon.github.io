@@ -1,6 +1,6 @@
 ## About me
 
-I am a collegiate assistant professor of [environmental data science](https://vt.edu/academics/majors/environmental-data-science.html) in the Forest Resources and Environmental Conservation (FREC) department in the College of Natural Resources and Environment at Virginia Tech. 
+I am a collegiate associate professor of [environmental data science](https://vt.edu/academics/majors/environmental-data-science.html) in the Forest Resources and Environmental Conservation (FREC) department in the College of Natural Resources and Environment at Virginia Tech. 
 
 ### Teaching
 
